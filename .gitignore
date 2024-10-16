@@ -1,0 +1,11 @@
+# building
+/target
+
+# cargo
+Cargo.lock
+.cargo/config
+.cargo/config.toml
+
+# IDE
+/.idea
+/.vscode
